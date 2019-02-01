@@ -11,10 +11,12 @@ public class SameLastDigit
       System.out.print( "Second number: " );
       int num2 = input.nextInt();
       
-      int last1 = num1 % ( num1 -
-      int last2 = num2
       
-      if( )
+      int last1 = num1 % 10;
+      int last2 = num2 % 10;
+      
+      
+      if( last1 == last2 )
       {
          System.out.print( "Same last digit" );
       }
