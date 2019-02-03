@@ -26,10 +26,13 @@ public class Makes10
       {
          System.out.print( "One number is 10" );
       }
+      
+      
       if( num1 != 10 && num2 != 10 )
       {
          System.out.print( "Neither number is 10" );
       }
+      
       
    }
 }
