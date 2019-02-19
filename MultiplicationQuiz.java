@@ -6,8 +6,8 @@ public class Carlos3c
       Scanner input = new Scanner( System.in );
       
       //var declare 1- random number generator
-      int num1 = (int)(Math.random() * 10 );
-      int num2 = (int)(Math.random() * 10 );
+      int num1 = (int)(Math.random() * 10 ) + 1;
+      int num2 = (int)(Math.random() * 10 ) + 1;
       
       //var declare 2- answer
       double product = num1 * num2;
