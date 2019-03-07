@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Carlos4a
+public class 3IsAMultipleOf
 {
    public static void main( String[] args )
    {
