@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Carlos4b
+public class SumAllEvens
 {
    
    public static void main( String[] args )
