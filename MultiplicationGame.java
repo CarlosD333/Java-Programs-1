@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Carlos4c
+public class MultiplicationGame
 {
    public static void main( String[] args )
    {
