@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FinalQuestions6
+public class HowManyOdd
 {
    public static void main( String[] args )
    {
