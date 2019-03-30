@@ -1,4 +1,4 @@
-public class ArrayProblem1
+public class OnlyOneOrFour
 {
    public static void main( String[] args )
    {
