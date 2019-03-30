@@ -1,4 +1,4 @@
-public class Carlos5c
+public class SumOfEvenIndexMinusProdOfOddIndex
 {
    public static void main( String[] args )
    {
