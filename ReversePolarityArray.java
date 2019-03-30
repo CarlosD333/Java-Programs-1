@@ -1,4 +1,4 @@
-public class Carlos5b
+public class ReversePolarityArray
 {
    public static void main( String[] args )
    {
