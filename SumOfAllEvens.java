@@ -1,4 +1,4 @@
-public class ArrayProblem3
+public class SumOfAllEvens
 {
    public static void main( String[] args )
    {
