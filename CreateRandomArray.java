@@ -1,4 +1,4 @@
-public class Carlos5a
+public class CreateRandomArray
 {
    public static void main( String[] args )
    {
