@@ -1,4 +1,4 @@
-public class ArrayProblem2
+public class HowManyOdds
 {
    public static void main( String[] args )
    {
