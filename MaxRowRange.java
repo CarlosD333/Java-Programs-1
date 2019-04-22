@@ -1,4 +1,4 @@
-public class Carlos7b
+public class MaxRowRange
 {
    public static void main( String [] args )
    {
