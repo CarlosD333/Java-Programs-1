@@ -1,4 +1,4 @@
-public class Carlos7c
+public class MinOfMins
 {
    public static void main( String [] args )
    {
