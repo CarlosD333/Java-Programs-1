@@ -1,4 +1,4 @@
-public class ArrayProblem6
+public class ExactReverseTF
 {
    public static void main( String[] args )
    {
