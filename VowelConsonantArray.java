@@ -1,4 +1,4 @@
-public class Carlos6b
+public class VowelConsonantArray
 {
    public static void main( String[] args )
    {
