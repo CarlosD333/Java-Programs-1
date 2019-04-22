@@ -1,4 +1,4 @@
-public class ArrayProblem5
+public class FirstValueThreeInARow
 {
    public static void main( String[] args )
    {
