@@ -1,4 +1,4 @@
-public class Carlos6c
+public class IncreaseOrDecrease
 {
    public static void main( String[] args )
    {
