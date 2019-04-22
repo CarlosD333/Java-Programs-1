@@ -1,4 +1,4 @@
-public class Carlos7a 
+public class LongestRunTF
 {
    public static void main( String[] args )
    {
