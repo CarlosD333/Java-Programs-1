@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArrayProblem4
+public class SizeStartIncrement
 {
    public static void main( String[] args )
    {
