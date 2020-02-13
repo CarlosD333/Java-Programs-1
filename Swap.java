@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.io.FileWriter;
 
-public class Main {
+public class Swap {
 
     public static void main(String[] args) {
 //	String firstName, lastName;
