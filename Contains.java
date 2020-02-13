@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class Contains {
 
     public static void main(String[] args) {
 	    String myString = "12345";
