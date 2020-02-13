@@ -3,7 +3,7 @@ import javax.sound.midi.Soundbank;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Main {
+public class OddOrEven {
 
     public static void main(String[] args) {
         System.out.println(check());
