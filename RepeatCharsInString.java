@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem3 {
+public class RepeatCharsInString {
 
     private String freq;
     private String text;
