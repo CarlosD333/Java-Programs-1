@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem19 {
+public class LongestSub {
     public static void main(String[] args) {
         String s1 = "qqqTUYTxxyyqqq";
         System.out.println(longestSub(s1));
