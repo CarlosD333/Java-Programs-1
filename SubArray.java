@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem18 {
+public class SubArray {
     public static void main(String[] args) {
         String s1 = "7, -2, -5, 2, 3, -2, -2, 4";
         subArray(s1);
