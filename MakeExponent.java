@@ -3,7 +3,7 @@ package com.carlosdegollado;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Problem7 {
+public class MakeExponent {
     public static void main(String[] args) {
         numbers();
     }
