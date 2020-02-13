@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem17 {
+public class CreateAcronim {
     public static void main(String[] args) {
         String s1 = "North";
         String s2 = "Eastern";
