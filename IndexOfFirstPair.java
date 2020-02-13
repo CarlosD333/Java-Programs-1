@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem10 {
+public class IndexOfFirstPair {
     public static void main(String[] args) {
         String test1 = "AAAyyyoooopppprrtttttqqsw";
         System.out.println(indexOfFirstPair(test1));
