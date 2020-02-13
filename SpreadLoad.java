@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Solution {
+public class SpreadLoad {
 
     static int solution(Integer[] loads) {
 
