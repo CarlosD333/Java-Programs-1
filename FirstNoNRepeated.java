@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Problem12 {
+public class FirstNonRepeated {
     public static void main(String[] args) {
         String s1 = "depreciation";
         System.out.println(firstNonRepeated(s1));
