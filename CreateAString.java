@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem1 {
+public class CreateAString {
 
     private char[][] ch;
     private String str;
