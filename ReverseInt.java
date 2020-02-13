@@ -2,7 +2,7 @@ package com.CarlosDegollado;
 
 import java.math.BigInteger;
 
-public class Main {
+public class ReverseInt {
 
     public static void main(String[] args) {
 	    int a = 312;
