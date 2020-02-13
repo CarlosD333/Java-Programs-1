@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class TimeFormat {
 
     public static void main(String[] args) {
 	    String time1 = "2?:?8";
