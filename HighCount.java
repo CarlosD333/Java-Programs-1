@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Solution {
+public class HighCount {
     static int solution(int[] A) {
 
         int high = 0;
