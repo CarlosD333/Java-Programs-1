@@ -2,7 +2,7 @@ package com.carlosdegollado;
 
 import java.math.BigInteger;
 
-public class Main {
+public class TwiceTheSum {
 
     public static void main(String[] args) {
 	    String[] a = {"1", "4", "3", "8"};
