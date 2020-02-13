@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class ValidIP {
 
     public static void main(String[] args) {
         String b1 = "127.16.254.1";
