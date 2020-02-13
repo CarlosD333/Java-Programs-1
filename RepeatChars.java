@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class RepeatChars {
 
     public static void main(String[] args)
     {
