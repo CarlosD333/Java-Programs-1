@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem16 {
+public class CountVowelConsDigit {
     public static void main(String[] args) {
         String s1 = "JTuireoqw4ptyqss4";
         countVCD(s1);
