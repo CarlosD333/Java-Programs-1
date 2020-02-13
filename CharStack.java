@@ -1,10 +1,6 @@
 package CarlosDegollado;
 
-// The CharStack class that implements a stack of characters
-// Xiwei Wang
-
-public class CharStack
-{
+public class CharStack {
     // instance variables
     private char[] m_array;
     private int m_index;
@@ -67,4 +63,3 @@ public class CharStack
         return stackContent;
     }
 }
-
