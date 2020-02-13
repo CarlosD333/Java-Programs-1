@@ -3,7 +3,7 @@ package com.CarlosDegollado;
 import java.util.HashMap;
 import java.util.Stack;
 
-class Solution {
+class ValidParenthesisMappedStack {
 
 
     // Hash table that takes care of the mappings.
