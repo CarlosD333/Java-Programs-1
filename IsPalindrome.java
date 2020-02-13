@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class IsPalindrome {
 
     public static void main(String[] args) {
 
