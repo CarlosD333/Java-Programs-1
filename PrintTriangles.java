@@ -1,6 +1,6 @@
 package CarlosDegollado;
 
-public class Main {
+public class PrintTriangles {
 
     public static void main(String[] args) {
 	    printTriangles(5);
