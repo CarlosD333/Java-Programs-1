@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Main {
+public class ReverseInteger {
 
     public static void main(String[] args) {
 	    int a = 123;
