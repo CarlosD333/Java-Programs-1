@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Main {
+public class AllTriples {
 
     public static void main(String[] args) {
 	    String str1 = "moommo"; //true
