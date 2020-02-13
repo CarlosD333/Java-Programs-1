@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Problem11 {
+public class AreTheyReversed {
     public static void main(String[] args) {
         String s1a = "apple";
         String s1b = "elppa";
