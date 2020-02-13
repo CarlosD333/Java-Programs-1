@@ -1,6 +1,6 @@
 package com.CarlosDegollado;
 
-public class Problem13 {
+public class OrderString {
     public static void main(String[] args) {
         String s1 = "0, 2, 1, 0, 0, 1, 0";
         System.out.println(order(s1));
