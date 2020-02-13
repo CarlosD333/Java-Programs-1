@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem15 {
+public class MakeChangesString {
     public static void main(String[] args) {
         String s1a = "Java is fun";
         String s2a = "Java";
