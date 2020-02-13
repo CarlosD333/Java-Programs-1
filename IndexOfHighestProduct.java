@@ -2,7 +2,7 @@ package com.company;
 
 import java.math.BigInteger;
 
-public class Problem2 {
+public class IndexOfHighestProduct {
 
     public static int indexOfHighestProduct(double[][] arr) {
 
