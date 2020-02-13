@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem20 {
+public class ShiftString {
     public static void main(String[] args) {
         String s1 = "abc";
         int n1 = 1;
