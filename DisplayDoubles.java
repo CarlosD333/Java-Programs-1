@@ -1,6 +1,6 @@
 package com.carlosdegollado;
 
-public class Problem14 {
+public class DisplayDoubles {
     public static void main(String[] args) {
         String s1 = "MMrrrttttyyppppwwqtress";
         System.out.println(displayDoubles(s1));
